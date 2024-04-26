@@ -159,4 +159,15 @@ box-shadow: 0 0 0 10px #e5ff00,
   0 0 100px #0094cead;
  }
 
+section{
+    display: inline-block;
+    margin-left: 86px;
+}
 
+li{
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 40px;
+    text-algain: center;
+    border-radius: 30px;
+}
